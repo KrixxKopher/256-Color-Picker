@@ -1,3 +1,4 @@
+# 256-Color-Picker
 I made this program for rendering each colors in 256-color mode to find perfect colors for curses.
 
 Anyways, Here are the basic controls
